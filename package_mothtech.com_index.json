@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "name": "moth_tech",
+      "maintainer": "Moth Technology Inc.",
+      "websiteURL": "http://www.mothtech.com/",
+      "email": "phil@mothtech.com",
+      "help": {
+        "online": "http://www.mothtech.com"
+      },
+      "platforms": [
+        {
+          "name": "Moth Technology Devices (requires Arduino SAM Boards 1.6.8+)",
+          "architecture": "sam",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/midimodsllc/moth_package/raw/master/moth_1.0.1.zip",
+          "archiveFileName": "moth_1.0.1.zip",
+          "checksum": "SHA-256:490b2bbd5185e8865044a963a01d55d1c1f921c49a0ffc038a8cba4b4d92a120",
+          "size": "39457",
+          "boards": [
+            {"name": "Moth Turn"}
+          ],
+          "toolsDependencies": [
+            
+          ]
+        }
+      ],
+      "tools": [
+        
+      ]
+    }
+  ]
+}
